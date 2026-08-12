@@ -1,5 +1,5 @@
 (() => {
-  const apiUrl = "https://rabbitfriendly-day-2026.scsalex.chatgpt.site/api/registrations";
+  const apiUrl = "https://rabbitfriendly-day-2026.scs-alex.workers.dev/api/registrations";
   const form = document.querySelector("#registration-form");
   if (!(form instanceof HTMLFormElement)) return;
 
